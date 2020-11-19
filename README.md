@@ -1,5 +1,5 @@
 # Gelogical Image Similarity
-**This is a personal ML project on Geological Image Similarity [Dataset](https://www.kaggle.com/tanyadayanand/geological-image-similarity)**  
+**This is a personal ML project on [Geological Image Similarity Dataset](https://www.kaggle.com/tanyadayanand/geological-image-similarity)**  
 
 ## BACKGROUND
 A geology research company wants to create a tool for identifying interesting patterns in their imagery data. This tool
