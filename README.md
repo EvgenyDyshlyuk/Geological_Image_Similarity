@@ -11,3 +11,4 @@ Task is to create the machine learning component for this image similarity appli
 model should return the top K images that are most similar to this image based on a single image input.
 
 ## About the Data:
+The data includes 6 different classes of 5000 28X28 RGB images (total of 29998 images)
