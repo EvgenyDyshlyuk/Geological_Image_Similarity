@@ -12,3 +12,8 @@ model should return the top K images that are most similar to this image based o
 
 ## About the Data:
 The data includes 6 different classes of 5000 28X28 RGB images (total of 29998 images)
+
+
+## Solution
+Simple classification task is solved for 6 classes as in the dataset. The output for the penultimate layer is also provided as output of the CNN and is used as embedding to find the similarity between the images (using cosine similarity)
+![figure](figures\CNN.png "CNN")
