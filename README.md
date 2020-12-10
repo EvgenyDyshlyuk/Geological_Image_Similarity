@@ -17,4 +17,4 @@ The data includes 6 different classes of 5000 28X28 RGB images (total of 29998 i
 ## Solution
 Simple classification task is solved for 6 classes of the dataset. The output for the penultimate layer is also provided as output of the CNN and is used as embedding to find the similarity between the images (using cosine similarity)
 
-![figure](figures\CNN.png "CNN")
+![figure](https://github.com/EvgenyDyshlyuk/Geological_Image_Similarity/figures/CNN.png)
